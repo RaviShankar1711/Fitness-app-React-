@@ -3,7 +3,7 @@
 
 **Team members**
 B.Rajesh Choubey
-S.Ravi shanker 
+S.Ravi shankar
 T.Simpson
 P.Someshwaran
 
